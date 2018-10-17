@@ -1,7 +1,7 @@
 # OpenTrade is the best opensource cryptocurrency exchange!
 
 Live version: https://trade.multicoins.org/
-
+Discord: https://discord.gg/uPxgfPU
 
 Step-by-step install instructions:
 
